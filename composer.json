@@ -1,0 +1,15 @@
+{
+    "name": "lamus1str/students-grades-accounting",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5",
+        "squizlabs/php_codesniffer": "^4.0",
+        "phpstan/phpstan": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lamus1str\\StudentsGradesAccounting\\": "src/"
+        }
+    },
+    "require": {}
+}
