@@ -5,7 +5,10 @@
 Реализовать небольшую систему учёта студентов и их оценок. В PHP console. 
 ## Классы
 ### Класс Student
-#### поля: firstName, lastName, grades (массив чисел).
+#### поля:
+- firstName
+- lastName
+- grades (массив чисел)
 #### методы:
 - addGrade(grade) — добавить оценку.
 - getAverage() — вернуть средний балл.
